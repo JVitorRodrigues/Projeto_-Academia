@@ -11,7 +11,7 @@ Esta versão evolui o CRUD anterior movendo regras de negócio e consultas para 
 (View, Function e Procedure), em vez de deixá-las espalhadas no código Java.
 
 ## Tecnologias
-Java 17+ · Java Swing · JDBC (postgresql-42.7.10) · PostgreSQL 15+
+Java 18+ · Java Swing · JDBC (postgresql-42.7.10) · PostgreSQL 15+
 
 ## Banco de dados
 **SGBD:** PostgreSQL. **Tabelas:** `usuarios`, `alunos`, `instrutores`, `planos`, `matriculas`, `pagamentos` (nova).
