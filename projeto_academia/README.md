@@ -57,10 +57,3 @@ Fluxo integrado: `Tela → JDBC (CALL / SELECT) → View/Function/Procedure → 
    # Linux/macOS: trocar ";" por ":"
    ```
 5. Login: `admin` / `admin123`.
-
-## Roteiro de demonstração (vídeo)
-1. **Alunos** → coluna *Situação* (function `fn_situacao_aluno`; a Marina aparece como "Sem matrícula").
-2. **Matrículas** → tabela vinda da view; selecione aluno/plano e veja o *valor final* mudar (function com desconto).
-3. **Matricular** a Marina → procedure cria matrícula + pagamento; tente matricular de novo para ver o erro de validação do banco.
-4. **Cancelar matrícula** → procedure `sp_cancelar_matricula`.
-5. **Relatório Financeiro** → view `vw_resumo_por_plano` já refletindo o novo pagamento.
