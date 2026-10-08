@@ -227,6 +227,9 @@ As Functions são utilizadas para realizar cálculos e determinar informações 
 As Procedures concentram operações mais complexas, como realizar uma matrícula ou cancelar uma matrícula, garantindo que as regras definidas sejam executadas diretamente no banco de dados.
 
 ---
+## Vídeo Demonstrativo
+
+Link: https://drive.google.com/file/d/14fwpOFYc3mA-trRqMYSj_LOqe7VZpFWh/view?usp=sharing 
 
 ##  Objetivo Acadêmico
 
